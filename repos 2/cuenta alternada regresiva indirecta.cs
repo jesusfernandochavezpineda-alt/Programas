@@ -1,4 +1,5 @@
-﻿using System.Xml.Serialization;
+// Cuenta regresiva alternando dos metodos: mostrar una cuenta regresiva de un numero hasta cero utilizando dos metodos que se llamen entre si.
+using System.Xml.Serialization;
 
 class Program
 {
