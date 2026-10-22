@@ -1,4 +1,5 @@
-﻿class Program
+// Determinar si el numero es par o impar: recursividad indirecta, determinando si un numero negativo es par o impar cumpliendo las siguientes funciones 1. Es Par() llama a EsImpar(). 2. EsImpar() llama a EsPar(). 3. El proceso termina cuando el numero llega a cero.
+class Program
 {
     static bool EsPar(int n)
     {
