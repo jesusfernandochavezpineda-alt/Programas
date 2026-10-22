@@ -1,4 +1,5 @@
-﻿class Program
+// Decimal a binario: convertir un  numero entero no negativo a su representacion binaria usando dos metodos que se llamen mutuamente
+class Program
 {
     static void BinarioA(int n)
     {
